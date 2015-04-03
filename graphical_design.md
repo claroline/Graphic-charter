@@ -20,6 +20,3 @@ Labels
 	 - Par défaut à gauche
 	 - Au dessus pour un affichage compressé
 
-Police Sans Serif
-=================
-Les polices Sans Serifs sont généralement utilisés pour les titres et le corps du texte. 
